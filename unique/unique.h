@@ -1,6 +1,6 @@
 /*
 *
-*   std::unique_ptr<T> implementation using Empty Base Optimisation for Deleter objects
+*   std::unique_ptr<T> implementation using Empty-Base Optimization for Deleter objects
 *
 */
 
